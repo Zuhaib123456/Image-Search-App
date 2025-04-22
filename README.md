@@ -1,21 +1,39 @@
-# To-Do App
+# Image Search App
 
-A simple To-Do web app built using HTML, CSS, and JavaScript.  
-**Created entirely on Android mobile using SPCK Editor.**
+This is a simple and responsive **Image Search App** built using **HTML, CSS, and JavaScript**.  
+It uses the **Unsplash API** to fetch high-quality images based on user queries.
 
-## Features:
-- Add, delete, mark tasks as completed
-- Uses localStorage for saving data
+> **Note:** This entire project was developed **on a mobile phone** using the **SPCK Editor app**, without any laptop or PC.
 
-## Built With:
-- SPCK Editor (Android App)
-- JavaScript, HTML5, CSS3
+## Features
 
-## Preview Screenshot:
-*(Upload a screenshot if you can)*
+- Search for any image by keyword
+- Displays high-quality images from Unsplash
 
-## Live Demo:
-*(Optional: Host on GitHub Pages or Netlify if you want)*
+- Mobile-first design
+- Built without using any frameworks
 
-## GitHub Repo:
-[Link to this repo]
+
+
+## How It Works
+
+1. User types a keyword (e.g., "nature", "cars").
+2. The app calls the Unsplash API.
+3. Images related to the keyword are displayed in a responsive grid.
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- [Unsplash API](https://unsplash.com/documentation)
+
+## Hosted Link
+
+Live Demo (If hosted on GitHub Pages or Netlify):  
+[https://zuhaib123456.github.io/Image-Search-App/](https://zuhaib123456.github.io/Image-Search-App/) *(Add after hosting)*
+
+## How to Run Locally
+
+1. Download the ZIP or clone the repo:
+2. 
